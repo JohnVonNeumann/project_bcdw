@@ -1,4 +1,5 @@
 # project_bcdw
+##### How to format a readme - https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ##*Resources*:
 
